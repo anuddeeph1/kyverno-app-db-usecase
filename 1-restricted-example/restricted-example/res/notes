@@ -1,0 +1,2 @@
+disallow-capabilities-strict --> should not drop all cap
+require-run-as-nonroot --> runAsNonRoot: "true"
