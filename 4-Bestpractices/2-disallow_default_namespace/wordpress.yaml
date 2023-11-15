@@ -66,7 +66,7 @@ spec:
         seccompProfile:
           type: RuntimeDefault
       containers:
-      - image: wordpress:latest
+      - image: wordpress:6.2.1-apache
         name: wordpress
         securityContext:
           allowPrivilegeEscalation: false
