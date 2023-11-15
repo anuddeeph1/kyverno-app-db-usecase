@@ -43,4 +43,3 @@ spec:
             containers:
             - securityContext:
                 allowPrivilegeEscalation: "false"
-
